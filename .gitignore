@@ -1,3 +1,6 @@
 .env
 .next
+.next/*
+/.next
+/.next/*
 package-lock.json
